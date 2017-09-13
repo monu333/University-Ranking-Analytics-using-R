@@ -1,0 +1,224 @@
+world_rank,university_name,country,teaching,research,citations,income,total_score,num_students,student_staff_ratio,international_students,year,Longitude,Latitude
+2,California Institute of Technology,United States of America,97.7,98,99.9,83.7,96,"2,243",6.9,27%,2011,34.139275,-118.12574
+3,Massachusetts Institute of Technology,United States of America,97.8,91.4,99.9,87.5,95.6,"11,074",9,33%,2011,42.360095,-71.092115
+4,Stanford University,United States of America,98.3,98.1,99.2,64.3,94.3,"15,596",7.8,22%,2011,37.426967,-122.168826
+13,Johns Hopkins University,United States of America,80.9,89.2,92.3,100,86.4,"15,128",3.6,23%,2011,39.32838,-76.620799
+14,Cornell University,United States of America,82.2,88.8,88.1,34.7,83.9,"21,424",10.2,19%,2011,42.447199,-76.483489
+15,University of Michigan,United States of America,83.9,89.1,84.1,59.6,83.4,"41,786",9,16%,2011,42.276061,-83.743121
+19,University of Pennsylvania,United States of America,71.8,82.7,93.6,43.7,79.5,"20,376",6.5,20%,2011,41.496219,-75.683551
+20,Carnegie Mellon University,United States of America,70.3,79.3,95.7,53.7,79.3,"11,885",13.1,35%,2011,40.444616,-79.942914
+23,University of Washington,United States of America,68.2,77.1,95.9,32.8,78,"44,020",11.8,13%,2011,47.656213,-122.313115
+24,Duke University,United States of America,66.8,71.5,92.3,100,76.5,"15,172",4.8,17%,2011,36.00159,-78.94226
+27,Georgia Institute of Technology,United States of America,67.9,72.6,83.2,95.1,75.3,"19,967",20.1,26%,2011,33.773732,-84.396019
+29,"University of California, Santa Barbara",United States of America,56.6,68,98.8,89.8,75,"22,020",27.3,11%,2011,34.416281,-119.846404
+30,University of North Carolina at Chapel Hill,United States of America,70.9,75.1,85,50.2,73.8,"26,518",7.3,8%,2011,35.912165,-79.050969
+32,"University of California, San Diego",United States of America,59.8,76.3,90.8,51.8,73.2,"27,233",6.5,11%,2011,32.876598,-117.237793
+47,Rice University,United States of America,57.4,50.6,99.1,29.2,66.9,"6,333",9,26%,2011,29.716485,-95.403625
+51,Vanderbilt University,United States of America,64.9,59.5,78.1,84.2,65.9,"12,161",3.6,10%,2011,36.14443,-86.804875
+54,"University of California, Davis",United States of America,57.3,70.7,68.8,48,65,"35,364",13.9,13%,2011,38.539895,-121.751958
+56,University of Massachusetts,United States of America,61.3,72.6,67.9,53.9,64.7,"56,959",13,11%,2011,42.65372,-71.325081
+59,Boston University,United States of America,53.6,51.9,91.4,29.6,64,"24,789",8.6,17%,2011,42.349581,-71.09984
+64,University of Pittsburgh,United States of America,58.5,58.3,78.3,37.9,62.7,"26,485",5.8,10%,2011,40.444502,-79.954692
+95,University of Arizona,United States of America,52.4,52.2,70.1,84.2,57.3,"36,429",12.7,8%,2011,32.232071,-110.950769
+109,Pennsylvania State University,United States of America,46.3,49.2,77.6,44,56,"44,501",12.4,12%,2011,42.120271,-79.986362
+117,"University of California, Riverside",United States of America,38.6,47.4,78.3,30.5,55.1,"20,626",22,12%,2011,33.97588,-117.331098
+156,Iowa State University,United States of America,49.3,49.6,58.2,49.6,51,"29,991",17.4,11%,2011,42.026368,-93.648353
+159,University of Delaware,United States of America,38.4,51.9,61.3,100,50.4,"19,262",15.9,10%,2011,39.6795744,-75.7529169
+1,California Institute of Technology,United States of America,95.7,98.2,99.9,97,94.8,"2,243",6.9,27%,2012,34.139275,-118.12574
+2,Stanford University,United States of America,94.8,98.9,99.8,63.8,93.9,"15,596",7.8,22%,2012,37.426967,-122.168826
+5,Princeton University,United States of America,91.5,99.1,100,81,92.9,"7,929",8.4,27%,2012,40.34853,-74.663603
+7,Massachusetts Institute of Technology,United States of America,92.7,87.4,100,94.4,92.3,"11,074",9,33%,2012,42.360095,-71.092115
+10,"University of California, Berkeley",United States of America,82.8,99.4,99.4,62.5,89.8,"36,186",16.4,15%,2012,37.871969,-122.260423
+11,Yale University,United States of America,92.3,91.2,96.7,34.7,89.1,"11,751",4.4,20%,2012,41.311158,-72.926688
+14,Johns Hopkins University,United States of America,78.9,86.5,97.3,100,85.8,"15,128",3.6,23%,2012,39.32838,-76.620799
+16,University of Pennsylvania,United States of America,87,86.1,97.9,41.9,84.9,"20,376",6.5,20%,2012,41.496219,-75.683551
+18,University of Michigan,United States of America,75.4,90,94.3,53.3,82.8,"41,786",9,16%,2012,42.276061,-83.743121
+21,Carnegie Mellon University,United States of America,65.7,79.5,97.4,60.7,78.4,"11,885",13.1,35%,2012,40.444616,-79.942914
+22,Duke University,United States of America,62.6,77.9,97.4,100,77.4,"15,172",4.8,17%,2012,36.00159,-78.94226
+24,Georgia Institute of Technology,United States of America,66.6,73.8,91.9,99.2,77,"19,967",20.1,26%,2012,33.773732,-84.396019
+25,University of Washington,United States of America,70.8,74,98.2,31.8,76.5,"44,020",11.8,13%,2012,47.656213,-122.313115
+26,Northwestern University,United States of America,66.3,75.5,98.6,56.6,76.2,"18,334",13.8,15%,2012,42.058377,-87.673653
+27,University of Wisconsin-Madison,United States of America,74.3,77.3,90.6,55.3,75.8,"39,655",10.8,11%,2012,43.073858,-89.405356
+29,University of Texas at Austin,United States of America,69.5,76.1,89.6,57.7,74.9,"49,427",17.4,9%,2012,30.286598,-97.73924
+33,"University of California, San Diego",United States of America,61.4,72,97.8,51.8,73,"27,233",6.5,11%,2012,32.876598,-117.237793
+35,"University of California, Santa Barbara",United States of America,55,65.3,99.9,85,72.1,"22,020",27.3,11%,2012,34.416281,-119.846404
+38,"University of California, Davis",United States of America,68,68.7,83.4,52.5,71.2,"35,364",13.9,13%,2012,38.539895,-121.751958
+43,University of North Carolina at Chapel Hill,United States of America,67.6,62.6,92.6,35.5,69.3,"26,518",7.3,8%,2012,35.912165,-79.050969
+44,New York University,United States of America,60.2,65.4,92.3,30.9,69,"42,056",6.8,19%,2012,40.729452,-73.997264
+51,Pennsylvania State University,United States of America,53.5,66.7,83.4,61.6,64.9,"44,501",12.4,12%,2012,42.120271,-79.986362
+54,Boston University,United States of America,60.7,46.2,95.6,27.6,64.2,"24,789",8.6,17%,2012,42.349581,-71.09984
+55,University of Southern California,United States of America,65.8,48.7,80.2,99.3,64,"36,534",12.9,20%,2012,33.662686,-117.900911
+57,Ohio State University,United States of America,61.8,56.2,77.5,49.9,63,"51,462",13.4,12%,2012,40.797259,-82.578673
+59,University of Pittsburgh,United States of America,54.3,53.9,88.7,37.5,62,"26,485",5.8,10%,2012,40.444502,-79.954692
+64,University of Massachusetts,United States of America,54,58.3,80.1,53.2,61.1,"56,959",13,11%,2012,42.65372,-71.325081
+70,Vanderbilt University,United States of America,52.1,47.6,86.8,64.4,59.6,"12,161",3.6,10%,2012,36.14443,-86.804875
+72,Rice University,United States of America,45.9,38,99.9,36.2,59,"6,333",9,26%,2012,29.716485,-95.403625
+75,Emory University,United States of America,48.4,39.8,90.9,34.4,57.4,"12,338",4.5,18%,2012,33.798836,-84.325782
+77,Tufts University,United States of America,45.8,37.4,94.5,35.4,57.3,"10,410",10,14%,2012,42.406994,-71.121689
+81,University of Rochester,United States of America,47,33.5,94.5,36.4,56.8,"9,390",4.5,26%,2012,43.126437,-77.631042
+86,"University of California, Irvine",United States of America,36.2,42.3,93.5,45.6,55.4,"26,614",16.1,16%,2012,33.648434,-117.841248
+89,University of Notre Dame,United States of America,42.6,36.2,94.1,27.3,55,"11,829",13.8,10%,2012,41.703058,-86.238959
+94,"University of Maryland, College Park",United States of America,41.1,43.6,85.8,28.5,54.5,"31,331",8.4,9%,2012,38.985379,-76.939494
+96,Michigan State University,United States of America,47.4,49.6,73.6,28,54.4,"44,750",15.7,15%,2012,42.72565,-84.473401
+97,University of Arizona,United States of America,45.1,43,78.3,86,54.2,"36,429",12.7,8%,2012,32.232071,-110.950769
+110,"University of California, Santa Cruz",United States of America,28.5,36.6,99.9,29.5,52.5,"17,404",22.7,1%,2012,36.997258,-122.067993
+114,Stony Brook University,United States of America,37.7,28.7,88.3,29.2,51.4,"21,908",10.9,24%,2012,40.913138,-73.123595
+127,Arizona State University,United States of America,38.2,39,80.3,28.7,49.9,"83,236",29.9,9%,2012,33.6096,-112.161271
+1,California Institute of Technology,United States of America,96.3,99.4,99.7,95.6,95.5,"2,243",6.9,27%,2013,34.139275,-118.12574
+2,Stanford University,United States of America,95,98.8,99.3,62.4,93.7,"15,596",7.8,22%,2013,37.426967,-122.168826
+5,Massachusetts Institute of Technology,United States of America,92.9,89.2,99.9,92.9,93.1,"11,074",9,33%,2013,42.360095,-71.092115
+6,Princeton University,United States of America,89.5,99.4,99.8,79.5,92.7,"7,929",8.4,27%,2013,40.34853,-74.663603
+9,"University of California, Berkeley",United States of America,85.1,99.3,99.3,65.4,90.5,"36,186",16.4,15%,2013,37.871969,-122.260423
+11,Yale University,United States of America,93.2,92.5,94.8,38.2,89.2,"11,751",4.4,20%,2013,41.311158,-72.926688
+15,University of Pennsylvania,United States of America,90,89.4,96.2,43.7,86.6,"20,376",6.5,20%,2013,41.496219,-75.683551
+16,Johns Hopkins University,United States of America,81.8,85.5,95.3,100,85.6,"15,128",3.6,23%,2013,39.32838,-76.620799
+18,Cornell University,United States of America,77,92.1,91.8,39.5,83.3,"21,424",10.2,19%,2013,42.447199,-76.483489
+19,Northwestern University,United States of America,77.6,87.3,98.2,64.4,83.1,"18,334",13.8,15%,2013,42.058377,-87.673653
+20,University of Michigan,United States of America,76.1,91.4,91.6,53.9,82.6,"41,786",9,16%,2013,42.276061,-83.743121
+22,Carnegie Mellon University,United States of America,71.8,87,95.5,55.9,81.5,"11,885",13.1,35%,2013,40.444616,-79.942914
+23,Duke University,United States of America,72.3,81.5,97,100,81.2,"15,172",4.8,17%,2013,36.00159,-78.94226
+24,University of Washington,United States of America,74.7,81.3,97,41.3,79.9,"44,020",11.8,13%,2013,47.656213,-122.313115
+25,Georgia Institute of Technology,United States of America,70.2,79.5,90.3,74.9,78.8,"19,967",20.1,26%,2013,33.773732,-84.396019
+25,University of Texas at Austin,United States of America,75.5,80.7,91,57.9,78.8,"49,427",17.4,9%,2013,30.286598,-97.73924
+31,University of Wisconsin-Madison,United States of America,76.1,80.1,88.2,54.8,76.9,"39,655",10.8,11%,2013,43.073858,-89.405356
+35,"University of California, Santa Barbara",United States of America,56.1,73.5,99.4,100,75.6,"22,020",27.3,11%,2013,34.416281,-119.846404
+38,"University of California, San Diego",United States of America,63.4,79,96.2,43.9,75.2,"27,233",6.5,11%,2013,32.876598,-117.237793
+41,New York University,United States of America,73.8,67.4,89.2,29.5,72.8,"42,056",6.8,19%,2013,40.729452,-73.997264
+42,University of North Carolina at Chapel Hill,United States of America,70.4,69.3,90.1,40,72.4,"26,518",7.3,8%,2013,35.912165,-79.050969
+44,"University of California, Davis",United States of America,67.9,71.6,82.7,52.5,71.8,"35,364",13.9,13%,2013,38.539895,-121.751958
+53,Ohio State University,United States of America,66.7,60.9,80.1,49.5,67,"51,462",13.4,12%,2013,40.797259,-82.578673
+54,Boston University,United States of America,65.4,50.9,94.2,30.6,66.8,"24,789",8.6,17%,2013,42.349581,-71.09984
+56,University of Southern California,United States of America,68.4,57.1,81.9,33.5,66.3,"36,534",12.9,20%,2013,33.662686,-117.900911
+61,Pennsylvania State University,United States of America,55,69.2,81.4,59.7,65.8,"44,501",12.4,12%,2013,42.120271,-79.986362
+72,University of Massachusetts,United States of America,57.1,62.6,77.8,52.8,62.9,"56,959",13,11%,2013,42.65372,-71.325081
+75,Rice University,United States of America,49.5,39.3,100,36.5,62,"6,333",9,26%,2013,29.716485,-95.403625
+76,University of Pittsburgh,United States of America,54.6,55.1,85.2,39.3,61.7,"26,485",5.8,10%,2013,40.444502,-79.954692
+79,Emory University,United States of America,56.7,44.4,90.9,38.3,61.3,"12,338",4.5,18%,2013,33.798836,-84.325782
+87,Tufts University,United States of America,52.6,36.4,94.8,39.4,59.1,"10,410",10,14%,2013,42.406994,-71.121689
+94,Michigan State University,United States of America,51.8,56.8,73.8,32.6,58.3,"44,750",15.7,15%,2013,42.72565,-84.473401
+94,University of Notre Dame,United States of America,48.3,39.6,93.5,29.8,58.3,"11,829",13.8,10%,2013,41.703058,-86.238959
+96,"University of California, Irvine",United States of America,44,47.2,90.3,42.1,58.2,"26,614",16.1,16%,2013,33.648434,-117.841248
+97,"University of Maryland, College Park",United States of America,44.9,51.4,83.9,32.1,57.9,"31,331",8.4,9%,2013,38.985379,-76.939494
+98,University of Arizona,United States of America,47,53.7,76.9,83.9,57.7,"36,429",12.7,8%,2013,32.232071,-110.950769
+99,"Rutgers, the State University of New Jersey",United States of America,50.9,61.3,69.5,35.8,57.5,"37,032",17.3,8%,2013,39.948628,-75.125303
+102,University of Rochester,United States of America,46,37.8,92.3,39.6,57.2,"9,390",4.5,26%,2013,43.126437,-77.631042
+106,Vanderbilt University,United States of America,51.5,40.9,85,53,56.6,"12,161",3.6,10%,2013,36.14443,-86.804875
+118,University of Virginia,United States of America,55.9,43,73.5,48.6,55,"23,845",10.2,12%,2013,36.971468,-82.558728
+124,Dartmouth College,United States of America,47.5,35.9,87,38.6,54.4,"6,178",6.6,16%,2013,43.70408,-72.289951
+1,California Institute of Technology,United States of America,94.4,98.2,99.8,91.2,94.9,"2,243",6.9,27%,2014,34.139275,-118.12574
+4,Stanford University,United States of America,94.7,96.8,99.1,61.3,93.8,"15,596",7.8,22%,2014,37.426967,-122.168826
+5,Massachusetts Institute of Technology,United States of America,92.9,89,100,94.3,93,"11,074",9,33%,2014,42.360095,-71.092115
+6,Princeton University,United States of America,89.9,97.6,99.7,80.5,92.7,"7,929",8.4,27%,2014,40.34853,-74.663603
+8,"University of California, Berkeley",United States of America,83.2,97.5,99.3,59.5,89.8,"36,186",16.4,15%,2014,37.871969,-122.260423
+11,Yale University,United States of America,89.5,90.5,93.5,38.7,87.4,"11,751",4.4,20%,2014,41.311158,-72.926688
+15,Johns Hopkins University,United States of America,75.7,85.1,95,100,83.7,"15,128",3.6,23%,2014,39.32838,-76.620799
+16,University of Pennsylvania,United States of America,79.8,81.2,95,45.2,81,"20,376",6.5,20%,2014,41.496219,-75.683551
+17,Duke University,United States of America,73.9,73,96.7,100,79.3,"15,172",4.8,17%,2014,36.00159,-78.94226
+18,University of Michigan,United States of America,70,86.2,90.8,53.5,79.2,"41,786",9,16%,2014,42.276061,-83.743121
+19,Cornell University,United States of America,72.1,83.8,90.8,35.8,79.1,"21,424",10.2,19%,2014,42.447199,-76.483489
+22,Northwestern University,United States of America,70.2,76,97.1,61.9,77.1,"18,334",13.8,15%,2014,42.058377,-87.673653
+24,Carnegie Mellon University,United States of America,63.1,77.4,93.9,52.5,76,"11,885",13.1,35%,2014,40.444616,-79.942914
+25,University of Washington,United States of America,65.6,69.2,95.6,43.1,73.4,"44,020",11.8,13%,2014,47.656213,-122.313115
+27,University of Texas at Austin,United States of America,64.7,69,91.3,59.6,72.2,"49,427",17.4,9%,2014,30.286598,-97.73924
+28,Georgia Institute of Technology,United States of America,59.4,68.6,87.9,71.3,71.6,"19,967",20.1,26%,2014,33.773732,-84.396019
+30,University of Wisconsin-Madison,United States of America,69.8,67.7,87.2,51.2,71.1,"39,655",10.8,11%,2014,43.073858,-89.405356
+33,"University of California, Santa Barbara",United States of America,47.8,58.2,99.4,86.7,68.4,"22,020",27.3,11%,2014,34.416281,-119.846404
+40,New York University,United States of America,65.4,58.4,87.9,29.9,67.4,"42,056",6.8,19%,2014,40.729452,-73.997264
+40,"University of California, San Diego",United States of America,52,63,96.7,48.4,67.4,"27,233",6.5,11%,2014,32.876598,-117.237793
+47,University of North Carolina at Chapel Hill,United States of America,57.6,55.3,90.2,39.1,64.5,"26,518",7.3,8%,2014,35.912165,-79.050969
+49,Pennsylvania State University,United States of America,55.3,65.9,79.4,60,64.2,"44,501",12.4,12%,2014,42.120271,-79.986362
+50,Boston University,United States of America,56.5,46.1,95.3,31.1,63.5,"24,789",8.6,17%,2014,42.349581,-71.09984
+52,"University of California, Davis",United States of America,55.5,56.4,81.2,51.3,63.2,"35,364",13.9,13%,2014,38.539895,-121.751958
+59,Ohio State University,United States of America,58.3,52.9,79.4,47.7,62,"51,462",13.4,12%,2014,40.797259,-82.578673
+65,Rice University,United States of America,44.1,35.5,99.9,35.2,59.8,"6,333",9,26%,2014,29.716485,-95.403625
+70,University of Southern California,United States of America,58.7,43.2,81.2,34.6,59,"36,534",12.9,20%,2014,33.662686,-117.900911
+78,University of Pittsburgh,United States of America,48.6,45.4,84.4,39.4,56.7,"26,485",5.8,10%,2014,40.444502,-79.954692
+80,Emory University,United States of America,50.4,31.6,90.8,43.2,56.1,"12,338",4.5,18%,2014,33.798836,-84.325782
+80,Tufts University,United States of America,46.7,32.1,93.9,39.1,56.1,"10,410",10,14%,2014,42.406994,-71.121689
+83,Michigan State University,United States of America,50,49.1,71.5,32,55.9,"44,750",15.7,15%,2014,42.72565,-84.473401
+88,Vanderbilt University,United States of America,46.8,38.7,86.5,51,55,"12,161",3.6,10%,2014,36.14443,-86.804875
+90,University of Notre Dame,United States of America,41.2,34.7,91.8,31.2,54.7,"11,829",13.8,10%,2014,41.703058,-86.238959
+93,"University of California, Irvine",United States of America,37.1,40.8,89.7,44.9,54.1,"26,614",16.1,16%,2014,33.648434,-117.841248
+95,University of Rochester,United States of America,42.8,29.9,89.7,41.4,53.6,"9,390",4.5,26%,2014,43.126437,-77.631042
+103,"Rutgers, the State University of New Jersey",United States of America,43.4,50.1,70.4,35.4,52.4,"37,032",17.3,8%,2014,39.948628,-75.125303
+103,University of Arizona,United States of America,39.4,44.4,74.6,82.3,52.4,"36,429",12.7,8%,2014,32.232071,-110.950769
+108,"University of Maryland, College Park",United States of America,39,37.2,84.4,32.1,52.2,"31,331",8.4,9%,2014,38.985379,-76.939494
+112,University of Virginia,United States of America,49.7,33.9,77.5,49.4,51.8,"23,845",10.2,12%,2014,36.971468,-82.558728
+1,California Institute of Technology,United States of America,92.2,98.1,99.7,89.1,94.3,"2,243",6.9,27%,2015,34.139275,-118.12574
+4,Stanford University,United States of America,91.5,96.7,99.1,63.1,92.9,"15,596",7.8,22%,2015,37.426967,-122.168826
+6,Massachusetts Institute of Technology,United States of America,89.1,88.2,100,95.7,91.9,"11,074",9,33%,2015,42.360095,-71.092115
+7,Princeton University,United States of America,86.6,94.7,99.6,82.7,90.9,"7,929",8.4,27%,2015,40.34853,-74.663603
+8,"University of California, Berkeley",United States of America,84.2,96.7,99.1,44.8,89.5,"36,186",16.4,15%,2015,37.871969,-122.260423
+9,Yale University,United States of America,88.5,90.8,94,42,87.5,"11,751",4.4,20%,2015,41.311158,-72.926688
+11,University of Chicago,United States of America,83.9,89.9,97.3,36.8,87.1,"14,221",6.9,21%,2015,41.78917,-87.601196
+15,Johns Hopkins University,United States of America,75.6,84.2,93.6,100,83,"15,128",3.6,23%,2015,39.32838,-76.620799
+16,University of Pennsylvania,United States of America,79,82,94.4,43,81,"20,376",6.5,20%,2015,41.496219,-75.683551
+17,University of Michigan,United States of America,77,86.5,88.9,55.7,80.9,"41,786",9,16%,2015,42.276061,-83.743121
+18,Duke University,United States of America,73.5,75.2,96.6,100,79.9,"15,172",4.8,17%,2015,36.00159,-78.94226
+19,Cornell University,United States of America,71.6,83.8,91.5,33.7,79.4,"21,424",10.2,19%,2015,42.447199,-76.483489
+21,Northwestern University,United States of America,72.7,78.9,96.9,77,79.2,"18,334",13.8,15%,2015,42.058377,-87.673653
+24,Carnegie Mellon University,United States of America,61.6,74.9,92,53,74.3,"11,885",13.1,35%,2015,40.444616,-79.942914
+26,University of Washington,United States of America,64.5,68.9,95,44.7,73.2,"44,020",11.8,13%,2015,47.656213,-122.313115
+27,Georgia Institute of Technology,United States of America,62.5,71.2,85.8,72.3,72.8,"19,967",20.1,26%,2015,33.773732,-84.396019
+28,University of Texas at Austin,United States of America,64.3,72,91.5,58.1,72.3,"49,427",17.4,9%,2015,30.286598,-97.73924
+29,University of Illinois at Urbana-Champaign,United States of America,67.7,79,77.8,51.7,71.9,"42,727",18.7,20%,2015,40.108864,-88.230309
+29,University of Wisconsin-Madison,United States of America,67.7,71.3,87.7,53.3,71.9,"39,655",10.8,11%,2015,43.073858,-89.405356
+37,"University of California, Santa Barbara",United States of America,49.4,61.4,99.2,87.1,70,"22,020",27.3,11%,2015,34.416281,-119.846404
+38,New York University,United States of America,68.3,62.4,89.5,30.2,69.9,"42,056",6.8,19%,2015,40.729452,-73.997264
+41,"University of California, San Diego",United States of America,52,66.6,96.4,54.2,68.6,"27,233",6.5,11%,2015,32.876598,-117.237793
+46,University of North Carolina at Chapel Hill,United States of America,57.9,58.6,91,40.5,65.9,"26,518",7.3,8%,2015,35.912165,-79.050969
+55,"University of California, Davis",United States of America,54.4,59.7,80.4,55.4,63.7,"35,364",13.9,13%,2015,38.539895,-121.751958
+57,Boston University,United States of America,56.4,46.7,94.4,30.3,63.6,"24,789",8.6,17%,2015,42.349581,-71.09984
+58,Pennsylvania State University,United States of America,54.6,64.8,76,60.4,62.9,"44,501",12.4,12%,2015,42.120271,-79.986362
+68,Ohio State University,United States of America,54,51.1,80.4,46.8,60.7,"51,462",13.4,12%,2015,40.797259,-82.578673
+69,Rice University,United States of America,41.7,37.1,99.9,34.6,59.8,"6,333",9,26%,2015,29.716485,-95.403625
+75,University of Southern California,United States of America,55.2,44.6,81.3,34.4,58.4,"36,534",12.9,20%,2015,33.662686,-117.900911
+82,Michigan State University,United States of America,51.1,49.4,74,31.7,57.3,"44,750",15.7,15%,2015,42.72565,-84.473401
+86,University of Arizona,United States of America,44.9,51.4,74,99.6,56.5,"36,429",12.7,8%,2015,32.232071,-110.950769
+88,Tufts University,United States of America,43.6,33.9,92.9,58.7,56.4,"10,410",10,14%,2015,42.406994,-71.121689
+88,"University of California, Irvine",United States of America,39.5,41.7,89.5,40,56.4,"26,614",16.1,16%,2015,33.648434,-117.841248
+91,University of Massachusetts,United States of America,44.8,49.1,78.7,52.8,56.1,"56,959",13,11%,2015,42.65372,-71.325081
+91,University of Pittsburgh,United States of America,45.2,46.3,84.4,38.5,56.1,"26,485",5.8,10%,2015,40.444502,-79.954692
+93,Emory University,United States of America,49,32.4,89.5,42.3,55.5,"12,338",4.5,18%,2015,33.798836,-84.325782
+96,Vanderbilt University,United States of America,46,38.2,87.7,59.4,55.2,"12,161",3.6,10%,2015,36.14443,-86.804875
+109,"University of California, Santa Cruz",United States of America,30.6,31.9,100,33.8,53.7,"17,404",22.7,1%,2015,36.997258,-122.067993
+121,University of Rochester,United States of America,41.9,29.2,87.7,36.4,52.7,"9,390",4.5,26%,2015,43.126437,-77.631042
+1,California Institute of Technology,United States of America,95.6,97.6,99.8,97.8,95.2,"2,243",6.9,27%,2016,34.139275,-118.12574
+3,Stanford University,United States of America,92.5,96.2,99.9,63.3,93.9,"15,596",7.8,22%,2016,37.426967,-122.168826
+5,Massachusetts Institute of Technology,United States of America,89.4,88.6,99.7,95.4,92,"11,074",9,33%,2016,42.360095,-71.092115
+7,Princeton University,United States of America,85.1,91.9,99.3,52.1,90.1,"7,929",8.4,27%,2016,40.34853,-74.663603
+10,University of Chicago,United States of America,85.7,88.9,99.2,36.6,87.9,"14,221",6.9,21%,2016,41.78917,-87.601196
+11,Johns Hopkins University,United States of America,77.6,90.4,98.2,100,87.6,"15,128",3.6,23%,2016,39.32838,-76.620799
+12,Yale University,United States of America,86.5,87.8,97.2,43.3,87.4,"11,751",4.4,20%,2016,41.311158,-72.926688
+13,"University of California, Berkeley",United States of America,80.4,91.1,99.7,47.9,87.2,"36,186",16.4,15%,2016,37.871969,-122.260423
+16,"University of California, Los Angeles",United States of America,80.8,88.6,98.5,47.9,85.8,"38,206",10.3,15%,2016,34.068892,-118.443901
+17,University of Pennsylvania,United States of America,82,86.9,98.6,47.9,85.2,"20,376",6.5,20%,2016,41.496219,-75.683551
+18,Cornell University,United States of America,77.9,86.1,97.2,33.7,84,"21,424",10.2,19%,2016,42.447199,-76.483489
+20,Duke University,United States of America,76,78,99,100,82.7,"15,172",4.8,17%,2016,36.00159,-78.94226
+21,University of Michigan,United States of America,76.8,85.2,94.4,56.3,82.4,"41,786",9,16%,2016,42.276061,-83.743121
+22,Carnegie Mellon University,United States of America,67.4,88.8,99.1,57.5,82.3,"11,885",13.1,35%,2016,40.444616,-79.942914
+25,Northwestern University,United States of America,69.8,78.4,96.5,81.2,79.5,"18,334",13.8,15%,2016,42.058377,-87.673653
+30,New York University,United States of America,74.7,72.3,95.3,30.4,77.2,"42,056",6.8,19%,2016,40.729452,-73.997264
+32,University of Washington,United States of America,67.1,70,98.6,43.1,75.6,"44,020",11.8,13%,2016,47.656213,-122.313115
+36,University of Illinois at Urbana-Champaign,United States of America,64.5,81.2,86.8,52.8,74.5,"42,727",18.7,20%,2016,40.108864,-88.230309
+39,"University of California, San Diego",United States of America,56.9,69.8,98.7,56.7,72.2,"27,233",6.5,11%,2016,32.876598,-117.237793
+39,"University of California, Santa Barbara",United States of America,52.6,66,99.2,90.4,72.2,"22,020",27.3,11%,2016,34.416281,-119.846404
+41,Georgia Institute of Technology,United States of America,57.8,72.7,86,73.7,72.1,"19,967",20.1,26%,2016,33.773732,-84.396019
+44,"University of California, Davis",United States of America,60.1,72.7,84.3,57.3,71,"35,364",13.9,13%,2016,38.539895,-121.751958
+46,University of Texas at Austin,United States of America,59.3,69.7,92.2,63.1,70.3,"49,427",17.4,9%,2016,30.286598,-97.73924
+50,University of Wisconsin-Madison,United States of America,65.1,68.2,86.6,48.5,69.7,"39,655",10.8,11%,2016,43.073858,-89.405356
+63,University of North Carolina at Chapel Hill,United States of America,58,54.5,95.9,39.4,66.4,"26,518",7.3,8%,2016,35.912165,-79.050969
+64,Boston University,United States of America,57.8,49.5,97.7,30.3,66.1,"24,789",8.6,17%,2016,42.349581,-71.09984
+65,University of Minnesota,United States of America,53.5,61,88,98.5,65.9,"46,825",18,13%,2016,44.977886,-93.235352
+68,University of Southern California,United States of America,49.3,58.9,93,38,65.5,"36,534",12.9,20%,2016,33.662686,-117.900911
+75,Pennsylvania State University,United States of America,50.4,61.9,80.5,56.2,62.3,"44,501",12.4,12%,2016,42.120271,-79.986362
+79,University of Pittsburgh,United States of America,50.6,50.3,92.3,39.3,61.5,"26,485",5.8,10%,2016,40.444502,-79.954692
+87,Vanderbilt University,United States of America,47.8,44.2,95.7,63.2,60.1,"12,161",3.6,10%,2016,36.14443,-86.804875
+90,Emory University,United States of America,48.3,37.1,96.7,48.9,59.7,"12,338",4.5,18%,2016,33.798836,-84.325782
+90,Ohio State University,United States of America,51.6,46.6,83.2,53.1,59.7,"51,462",13.4,12%,2016,40.797259,-82.578673
+94,Georgetown University,United States of America,54.4,39.3,82.5,80.7,58.8,"15,408",8.5,14%,2016,38.908809,-77.073463
+99,Michigan State University,United States of America,47.3,52.6,76.8,32.2,58,"44,750",15.7,15%,2016,42.72565,-84.473401
+101,Rice University,United States of America,37.9,35.1,99.7,41.7,57.9,"6,333",9,26%,2016,29.716485,-95.403625
+104,Dartmouth College,United States of America,50.7,35.8,93.3,40.8,57.8,"6,178",6.6,16%,2016,43.70408,-72.289951
+106,"University of California, Irvine",United States of America,39.9,41.8,91.6,48.9,57.7,"26,614",16.1,16%,2016,33.648434,-117.841248
+108,University of Notre Dame,United States of America,47.6,48.1,81.7,33.7,57.6,"11,829",13.8,10%,2016,41.703058,-86.238959

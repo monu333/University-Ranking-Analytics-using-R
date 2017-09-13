@@ -1,0 +1,10 @@
+name: myapp
+title:
+username:
+account: worlduniversityrankings
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 214195
+bundleId: 980555
+url: https://worlduniversityrankings.shinyapps.io/myapp/
+when: 1505333386.72848
